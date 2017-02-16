@@ -35,3 +35,8 @@ python ui/app.py
 #		"Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)"
 # open up the address in browser, chat with the bot
 ```
+## Output examples
+![](output_example/1.png)
+![](output_example/2.png)
+![](output_example/3.png)
+![](output_example/4.png)
